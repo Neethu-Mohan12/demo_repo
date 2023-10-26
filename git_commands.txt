@@ -1,0 +1,5 @@
+git init
+git add .
+git remote add origin "https://github.com/Neethu-Mohan12/demo_repo.git"
+git commit -m "git_commands"
+git push -u origin master
